@@ -1,0 +1,16 @@
+{
+    "packStructureVersion": 26,
+    "title": "Random chest items ",
+    "guid": "f935d0d2-719b-4a1d-b065-d9d87f7dd0fc",
+    "descriptionEnglish": "When opening a chest, the player will receive a random item.",
+    "authors": [
+        {
+            "file": "1.webp",
+            "name": "Eternal | github.com",
+            "color": "#ffd60000",
+            "link": "https://github.com/01Eternal",
+            "icon_height": 70
+        }
+    ],
+    "version": 1
+}
